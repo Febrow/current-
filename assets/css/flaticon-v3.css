@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Flaticon-v3";
+  src: url("../fonts/flaticon-v3.eot");
+  src: url("../fonts/flaticon-v3.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon-v3.woff2") format("woff2"),
+       url("../fonts/flaticon-v3.woff") format("woff"),
+       url("../fonts/flaticon-v3.ttf") format("truetype"),
+       url("../fonts/flaticon-v3.svg#flaticon-v3") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: Flaticon-v3 !important;
+    src: url("../fonts/Flaticon-v3.svg#Flaticon-v3") format("svg");
+  }
+}
+[class^="flaticon-v3-"], [class*=" flaticon-v3-"]{
+  display: inline-flex;
+}
+[class^="flaticon-v3-"]:before, [class*=" flaticon-v3-"]:before,
+[class^="flaticon-v3-"]:after, [class*=" flaticon-v3-"]:after {   
+  font-family: Flaticon-v3 !important;
+  font-size: inherit;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.flaticon-v3-auction:before {
+    content: "\f101";
+}
+.flaticon-v3-placeholder:before {
+    content: "\f102";
+}
+.flaticon-v3-customer-service:before {
+    content: "\f103";
+}
+.flaticon-v3-speech-bubble:before {
+    content: "\f104";
+}
+.flaticon-v3-phone-call:before {
+    content: "\f105";
+}
+.flaticon-v3-enter:before {
+    content: "\f106";
+}
+.flaticon-v3-cashback:before {
+    content: "\f107";
+}
+.flaticon-v3-broker:before {
+    content: "\f108";
+}
+.flaticon-v3-cashback-1:before {
+    content: "\f109";
+}
+.flaticon-v3-real-estate:before {
+    content: "\f10a";
+}
+.flaticon-v3-phone-call-1:before {
+    content: "\f10b";
+}
+.flaticon-v3-right-up:before {
+    content: "\f10c";
+}
+.flaticon-v3-next:before {
+    content: "\f10d";
+}
+.flaticon-v3-right-arrows:before {
+    content: "\f10e";
+}
